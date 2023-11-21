@@ -1,3 +1,5 @@
+* Montelibero Association: Council Decisions Registry
+
 | # | Header                                             | Initiator  | Storage | Telegram | Signature | Comment |
 |---+----------------------------------------------------+------------+---------+----------+-----------+---------|
 | 0 | Approve the Aggrement                              | @sozidatel | [[https://github.com/MTL-Association/Documents/blob/7aad0807cd508651c6bf307c6ea69c018ad12e8a/Internal/Agreement/Agreement.ru.md][7aad08]]  | [[https://t.me/c/1944691324/829][829]]      | [[https://eurmtl.me/sign_tools/8dfca3962d930b57620c25c6207a6cc05fd6c5a9b7eb14830f2cc4666544b62a][8dfca3]]    |         |
