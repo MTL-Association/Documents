@@ -1,6 +1,5 @@
-Agreement of the Association
-============================
+# Repository Moved
 
-- [Russian (initial) text](Agreement.ru.md)
-- [Meta data](Meta.md)
-  Personal data working standard
+> This repository has moved to another GitHub account:
+[Montelibero/MTLA-Documents/Internal/Agreement](https://github.com/Montelibero/MTLA-Documents/tree/main/Internal/Agreement).
+Please, update your bookmarks.

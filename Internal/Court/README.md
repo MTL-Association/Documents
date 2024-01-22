@@ -1,5 +1,5 @@
-Court rules
-===========
+# Repository Moved
 
-- [Russian text](Court.ru.md)
-- [Meta data](Meta.md)
+> This repository has moved to another GitHub account:
+[Montelibero/MTLA-Documents/Internal/Court](https://github.com/Montelibero/MTLA-Documents/tree/main/Internal/Court).
+Please, update your bookmarks.

@@ -1,5 +1,5 @@
-Regulations on participation
-============================
+# Repository Moved
 
-- [Russian text](Participation.ru.md)
-- [Meta data](Meta.md)
+> This repository has moved to another GitHub account:
+[Montelibero/MTLA-Documents/Internal/Participation](https://github.com/Montelibero/MTLA-Documents/tree/main/Internal/Participation).
+Please, update your bookmarks.
