@@ -1,0 +1,8 @@
+* Montelibero Association: Council Decisions Registry
+
+| # | Header                                             | Initiator  | Storage | Telegram | Signature | Comment            |
+|---+----------------------------------------------------+------------+---------+----------+-----------+--------------------|
+| 0 | Approve the Aggrement                              | @sozidatel | [[https://github.com/MTL-Association/Documents/blob/7aad0807cd508651c6bf307c6ea69c018ad12e8a/Internal/Agreement/Agreement.ru.md][7aad08]]  | [[https://t.me/c/1944691324/829][829]]      | [[https://eurmtl.me/sign_tools/8dfca3962d930b57620c25c6207a6cc05fd6c5a9b7eb14830f2cc4666544b62a][8dfca3]]    |                    |
+| 1 | Approve the Temporary Rules for Dispute Resolution | @sozidatel | [[https://github.com/MTL-Association/Documents/blob/9616a74894ec52937f80c08f0d027c926c47575e/Internal/Court/Court.ru.md][9616a7]]  | [[https://t.me/c/1944691324/1047][1047]]     | [[https://eurmtl.me/sign_tools/78d53052d84c54cb796aa5c1407b2e45a4d9fe5cf6d73d21cbfc0598ee51f029][78d530]]    |                    |
+| 2 | Approve the MTLA Crisis Offer                      | @sozidatel |         | [[https://t.me/c/1892843127/2771][2771]]     |           | Awaits publication |
+| 3 | Approve the Personal Data Standard                 | @sozidatel | [[https://github.com/MTL-Association/Documents/blob/a855150edfad7bf6ee3b4694103a7f963b299a5f/Internal/Personal%20data%20working%20standard/Standard.ru.md][a85515]]  | [[https://t.me/c/1944691324/1395][1395]]     | [[https://eurmtl.me/sign_tools/56704e460e33d4b51a3820db7d9bc920e0fb19578cb57fbfda36284f9f6cb908][56704e]]    |                    |
